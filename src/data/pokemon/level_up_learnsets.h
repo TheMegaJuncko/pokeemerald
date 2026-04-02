@@ -5615,3 +5615,12 @@ static const u16 sChimechoLevelUpLearnset[] = {
     LEVEL_UP_MOVE(46, MOVE_PSYCHIC),
     LEVEL_UP_END
 };
+
+static const u16 sDragapultLevelUpLearnset[] = {
+    LEVEL_UP_MOVE(1, MOVE_DRAGON_BREATH),
+    LEVEL_UP_MOVE(6, MOVE_ASTONISH),
+    LEVEL_UP_MOVE(14, MOVE_CONFUSION),
+    LEVEL_UP_MOVE(42, MOVE_DRAGON_DANCE),
+    LEVEL_UP_MOVE(50, MOVE_DOUBLE_EDGE),
+    LEVEL_UP_END
+};

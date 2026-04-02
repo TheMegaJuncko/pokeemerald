@@ -98,6 +98,7 @@ const u16 gPokedexOrder_Alphabetical[] =
     NATIONAL_DEX_DODRIO,
     NATIONAL_DEX_DODUO,
     NATIONAL_DEX_DONPHAN,
+    NATIONAL_DEX_DRAGAPULT,
     NATIONAL_DEX_DRAGONAIR,
     NATIONAL_DEX_DRAGONITE,
     NATIONAL_DEX_DRATINI,
@@ -417,6 +418,7 @@ const u16 gPokedexOrder_Alphabetical[] =
 const u16 gPokedexOrder_Weight[] =
 {
     NATIONAL_DEX_GASTLY,
+    NATIONAL_DEX_DRAGAPULT,
     NATIONAL_DEX_HAUNTER,
     NATIONAL_DEX_HOPPIP,
     NATIONAL_DEX_DIGLETT,
@@ -806,6 +808,7 @@ const u16 gPokedexOrder_Weight[] =
 
 const u16 gPokedexOrder_Height[] =
 {
+    NATIONAL_DEX_DRAGAPULT,
     NATIONAL_DEX_DIGLETT,
     NATIONAL_DEX_AZURILL,
     NATIONAL_DEX_NATU,

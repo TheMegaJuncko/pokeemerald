@@ -3299,6 +3299,14 @@ static const struct BardSoundTemplate sBardSoundTemplates_Pokemon[NUM_SPECIES][M
         PREV_BARD_SOUND,
         NULL_BARD_SOUND,
         NULL_BARD_SOUND,
+    },
+    [SPECIES_DRAGAPULT] = {
+        {.songId = PHONEME_ID(PH_TRAP_BLEND) },
+        {.songId = PHONEME_ID(PH_TRAP_BLEND) },
+        {.songId = PHONEME_ID(PH_DRESS_BLEND) },
+        PREV_BARD_SOUND,
+        NULL_BARD_SOUND,
+        NULL_BARD_SOUND,
     }
 };
 

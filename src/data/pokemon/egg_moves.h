@@ -1306,5 +1306,11 @@ const u16 gEggMoves[] = {
               MOVE_HYPNOSIS,
               MOVE_DREAM_EATER),
 
+    egg_moves(DRAGAPULT,
+            MOVE_DISABLE,
+            MOVE_CURSE,
+            MOVE_HYPNOSIS,
+            MOVE_DREAM_EATER),
+
     EGG_MOVES_TERMINATOR
 };

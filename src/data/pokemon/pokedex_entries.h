@@ -4308,6 +4308,18 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerOffset = 0,
     },
 
+    [NATIONAL_DEX_DRAGAPULT] =
+    {
+        .categoryName = _("WIND CHIME"),
+        .height = 6,
+        .weight = 10,
+        .description = gChimechoPokedexText,
+        .pokemonScale = 505,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
+
     [NATIONAL_DEX_ABSOL] =
     {
         .categoryName = _("DISASTER"),
