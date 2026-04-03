@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\msys64\\home\\paulr\\pokeemerald\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\LittlerootTown\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\maps\\LittlerootTown\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\level_up_learnsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\pokemon\\level_up_learnsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -146,11 +150,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "scripts.inc",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\LittlerootTown\\scripts.inc",
+              "RelativeDocumentMoniker": "data\\maps\\LittlerootTown\\scripts.inc",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\LittlerootTown\\scripts.inc",
+              "RelativeToolTip": "data\\maps\\LittlerootTown\\scripts.inc",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAowP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-03T18:23:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "wild_encounters.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\wild_encounters.h",
               "RelativeDocumentMoniker": "src\\data\\wild_encounters.h",
@@ -158,12 +175,11 @@
               "RelativeToolTip": "src\\data\\wild_encounters.h",
               "ViewState": "AgIAAPYQAAAAAAAAAAAAABcRAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T10:17:07.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T10:17:07.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "wild_encounters.json",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\wild_encounters.json",
               "RelativeDocumentMoniker": "src\\data\\wild_encounters.json",
@@ -171,12 +187,11 @@
               "RelativeToolTip": "src\\data\\wild_encounters.json",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAF8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-02T10:16:39.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T10:16:39.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "wild_encounter.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\wild_encounter.c",
               "RelativeDocumentMoniker": "src\\wild_encounter.c",
@@ -184,12 +199,11 @@
               "RelativeToolTip": "src\\wild_encounter.c",
               "ViewState": "AgIAAK0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T10:15:38.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T10:15:38.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "wild_encounter.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\constants\\wild_encounter.h",
               "RelativeDocumentMoniker": "include\\constants\\wild_encounter.h",
@@ -197,12 +211,11 @@
               "RelativeToolTip": "include\\constants\\wild_encounter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T10:15:09.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T10:15:09.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "anim_mon_front_pics.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\anim_mon_front_pics.c",
               "RelativeDocumentMoniker": "src\\anim_mon_front_pics.c",
@@ -210,25 +223,24 @@
               "RelativeToolTip": "src\\anim_mon_front_pics.c",
               "ViewState": "AgIAAG0BAAAAAAAAAAAgwIsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T09:57:39.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:57:39.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "level_up_learnsets.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\level_up_learnsets.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\level_up_learnsets.h",
               "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\level_up_learnsets.h",
               "RelativeToolTip": "src\\data\\pokemon\\level_up_learnsets.h",
-              "ViewState": "AgIAANsVAAAAAAAAAAAAAPcVAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAANsVAAAAAAAAAAAAAPkVAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-02T09:34:45.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "pokemon_icon.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon_icon.c",
               "RelativeDocumentMoniker": "src\\pokemon_icon.c",
@@ -236,12 +248,11 @@
               "RelativeToolTip": "src\\pokemon_icon.c",
               "ViewState": "AgIAAHoEAAAAAAAAAAAAAJADAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T09:16:33.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:16:33.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "pokemon_animation.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon_animation.c",
               "RelativeDocumentMoniker": "src\\pokemon_animation.c",
@@ -249,12 +260,11 @@
               "RelativeToolTip": "src\\pokemon_animation.c",
               "ViewState": "AgIAAD0CAAAAAAAAAIAwwFoCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T09:16:18.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:16:18.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "pokemon.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon.c",
               "RelativeDocumentMoniker": "src\\pokemon.c",
@@ -262,12 +272,11 @@
               "RelativeToolTip": "src\\pokemon.c",
               "ViewState": "AgIAAIIFAAAAAAAAAAAAAAUHAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-02T09:13:48.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:13:48.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "species_names.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\text\\species_names.h",
               "RelativeDocumentMoniker": "src\\data\\text\\species_names.h",
@@ -275,12 +284,11 @@
               "RelativeToolTip": "src\\data\\text\\species_names.h",
               "ViewState": "AgIAAIUBAAAAAAAAAIAwwJ0BAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:13:28.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:13:28.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "pokemon.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\graphics\\pokemon.h",
               "RelativeDocumentMoniker": "src\\data\\graphics\\pokemon.h",
@@ -288,12 +296,11 @@
               "RelativeToolTip": "src\\data\\graphics\\pokemon.h",
               "ViewState": "AgIAAIEKAAAAAAAAAAAgwJMKAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:00:07.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:00:07.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "graphics.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\graphics.h",
               "RelativeDocumentMoniker": "include\\graphics.h",
@@ -301,38 +308,35 @@
               "RelativeToolTip": "include\\graphics.h",
               "ViewState": "AgIAAKYKAAAAAAAAAAAgwLwKAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T08:59:34.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "unknown_table.h",
-              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\unknown_table.h",
-              "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\unknown_table.h",
-              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\unknown_table.h*",
-              "RelativeToolTip": "src\\data\\pokemon_graphics\\unknown_table.h*",
-              "ViewState": "AgIAAIcBAAAAAAAAAIAwwJ8BAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:12:54.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T08:59:34.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "still_front_pic_table.h",
-              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\still_front_pic_table.h",
-              "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\still_front_pic_table.h",
-              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\still_front_pic_table.h*",
-              "RelativeToolTip": "src\\data\\pokemon_graphics\\still_front_pic_table.h*",
-              "ViewState": "AgIAAIkBAAAAAAAAAIAwwKEBAAA/AAAAAAAAAA==",
+              "Title": "unknown_table.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\unknown_table.h",
+              "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\unknown_table.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\unknown_table.h",
+              "RelativeToolTip": "src\\data\\pokemon_graphics\\unknown_table.h",
+              "ViewState": "AgIAAIcBAAAAAAAAAIAwwJ8BAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:12:38.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:12:54.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
+              "Title": "still_front_pic_table.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\still_front_pic_table.h",
+              "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\still_front_pic_table.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\still_front_pic_table.h",
+              "RelativeToolTip": "src\\data\\pokemon_graphics\\still_front_pic_table.h",
+              "ViewState": "AgIAAIkBAAAAAAAAAIAwwKEBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-02T09:12:38.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "species_info.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\species_info.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\species_info.h",
@@ -340,12 +344,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\species_info.h",
               "ViewState": "AgIAAJItAAAAAAAAAIAwwKwtAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:06:29.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:06:29.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "shiny_palette_table.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\shiny_palette_table.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\shiny_palette_table.h",
@@ -353,12 +356,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\shiny_palette_table.h",
               "ViewState": "AgIAAIYBAAAAAAAAAIAwwJ4BAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:12:23.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:12:23.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "palette_table.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\palette_table.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\palette_table.h",
@@ -366,12 +368,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\palette_table.h",
               "ViewState": "AgIAAIYBAAAAAAAAAIAwwJwBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:12:11.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:12:11.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "front_pic_table.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\front_pic_table.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\front_pic_table.h",
@@ -379,12 +380,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\front_pic_table.h",
               "ViewState": "AgIAAIYBAAAAAAAAAIAwwJ4BAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:11:56.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:11:56.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "unused_anims.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\unused_anims.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\unused_anims.h",
@@ -392,25 +392,23 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\unused_anims.h",
               "ViewState": "AgIAAOwGAAAAAAAAAIAwwAkHAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:02:15.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:02:15.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "front_pic_coordinates.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\front_pic_coordinates.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\front_pic_coordinates.h",
-              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\front_pic_coordinates.h*",
-              "RelativeToolTip": "src\\data\\pokemon_graphics\\front_pic_coordinates.h*",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\front_pic_coordinates.h",
+              "RelativeToolTip": "src\\data\\pokemon_graphics\\front_pic_coordinates.h",
               "ViewState": "AgIAAIoBAAAAAAAAAIAwwKIBAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:11:40.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:11:40.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "footprint_table.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\footprint_table.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\footprint_table.h",
@@ -418,12 +416,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\footprint_table.h",
               "ViewState": "AgIAAIYBAAAAAAAAAIAwwKEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:10:43.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:10:43.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "enemy_mon_elevation.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\enemy_mon_elevation.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\enemy_mon_elevation.h",
@@ -431,12 +428,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\enemy_mon_elevation.h",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:10:19.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:10:19.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "back_pic_table.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\back_pic_table.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\back_pic_table.h",
@@ -444,12 +440,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\back_pic_table.h",
               "ViewState": "AgIAAIYBAAAAAAAAAIAwwJ4BAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:10:03.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:10:03.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "tutor_learnsets.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\tutor_learnsets.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\tutor_learnsets.h",
@@ -457,12 +452,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\tutor_learnsets.h",
               "ViewState": "AgIAAFcWAAAAAAAAAAAwwHQWAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:09:26.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:09:26.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "tmhm_learnsets.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\tmhm_learnsets.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\tmhm_learnsets.h",
@@ -470,12 +464,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\tmhm_learnsets.h",
               "ViewState": "AgIAAKknAAAAAAAAAAAAAMUnAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:08:22.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:08:22.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "front_pic_anims.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon_graphics\\front_pic_anims.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon_graphics\\front_pic_anims.h",
@@ -483,12 +476,11 @@
               "RelativeToolTip": "src\\data\\pokemon_graphics\\front_pic_anims.h",
               "ViewState": "AgIAABIWAAAAAAAAAIAwwCsWAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:01:35.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:01:35.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "pokedex_orders.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\pokedex_orders.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\pokedex_orders.h",
@@ -496,12 +488,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\pokedex_orders.h",
               "ViewState": "AgIAABcDAAAAAAAAAIAwwCoDAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:05:16.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:05:16.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "pokedex_entries.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\pokedex_entries.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\pokedex_entries.h",
@@ -509,12 +500,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\pokedex_entries.h",
               "ViewState": "AgIAAM8QAAAAAAAAAAAwwOEQAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:04:49.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:04:49.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "egg_moves.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\egg_moves.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\egg_moves.h",
@@ -522,12 +512,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\egg_moves.h",
               "ViewState": "AgIAAPwEAAAAAAAAAIAwwCEFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:04:23.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:04:23.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "pokemon.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\bard_music\\pokemon.h",
               "RelativeDocumentMoniker": "src\\data\\bard_music\\pokemon.h",
@@ -535,12 +524,11 @@
               "RelativeToolTip": "src\\data\\bard_music\\pokemon.h",
               "ViewState": "AgIAANAMAAAAAAAAAIAwwO8MAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:02:48.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:02:48.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "pokedex_text.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\pokedex_text.h",
               "RelativeDocumentMoniker": "src\\data\\pokemon\\pokedex_text.h",
@@ -548,12 +536,11 @@
               "RelativeToolTip": "src\\data\\pokemon\\pokedex_text.h",
               "ViewState": "AgIAAPgIAAAAAAAAAIAwwBEJAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T08:58:53.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T08:58:53.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "pokedex.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\constants\\pokedex.h",
               "RelativeDocumentMoniker": "include\\constants\\pokedex.h",
@@ -561,12 +548,11 @@
               "RelativeToolTip": "include\\constants\\pokedex.h",
               "ViewState": "AgIAAGoBAAAAAAAAAAAgwIcBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T09:00:51.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T09:00:51.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "species.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\constants\\species.h",
               "RelativeDocumentMoniker": "include\\constants\\species.h",
@@ -574,12 +560,11 @@
               "RelativeToolTip": "include\\constants\\species.h",
               "ViewState": "AgIAAIkBAAAAAAAAAAAwwKMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-02T08:55:03.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T08:55:03.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "starter_choose.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\starter_choose.c",
               "RelativeDocumentMoniker": "src\\starter_choose.c",
@@ -587,8 +572,7 @@
               "RelativeToolTip": "src\\starter_choose.c",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-01T18:57:34.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T18:57:34.276Z"
             }
           ]
         }

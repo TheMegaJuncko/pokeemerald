@@ -245,6 +245,14 @@ LittlerootTown_EventScript_FatMan::
 	msgbox LittlerootTown_Text_CanUsePCToStoreItems, MSGBOX_NPC
 	end
 
+LittlerootTown_EventScript_OutOfSteelix::
+	msgbox LittlerootTown_Text_OutOfSteelix, MSGBOX_NPC
+	end
+
+LittlerootTown_EventScript_Caitlin::
+	msgbox LittlerootTown_Text_Caitlin, MSGBOX_NPC
+	end
+
 LittlerootTown_EventScript_Boy::
 	msgbox LittlerootTown_Text_BirchSpendsDaysInLab, MSGBOX_NPC
 	end
@@ -956,6 +964,41 @@ LittlerootTown_Text_CanUsePCToStoreItems:
 	.string "If you use a PC, you can store items\n"
 	.string "and POKéMON.\p"
 	.string "The power of science is staggering!$"
+
+LittlerootTown_Text_OutOfSteelix:
+	.string "I NEED a shadow\n"
+	.string "steelix.\p"
+	.string "I NEED a shadow\n"
+	.string "steelix.\p"
+	.string "I NEED a shadow\n"
+	.string "steelix.\p"
+	.string "Sorry, I still have PTSD about \n"
+	.string "the jumpluff incident.$"
+
+LittlerootTown_Text_Caitlin:
+	.string "I want to fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "fight.\p"
+	.string "FIIIIIIIIGHT.\p"
+	.string "...sorry.$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "PROF. BIRCH spends days in his LAB\n"
