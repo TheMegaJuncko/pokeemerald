@@ -4,7 +4,7 @@
   "layout": "LAYOUT_MT_PYRE_SUMMIT",
   "music": "MUS_MT_PYRE_EXTERIOR",
   "region_map_section": "MAPSEC_MT_PYRE",
-  "requires_flash": false,
+  "requires_flash": true,
   "weather": "WEATHER_FOG_HORIZONTAL",
   "map_type": "MAP_TYPE_ROUTE",
   "allow_cycling": true,
