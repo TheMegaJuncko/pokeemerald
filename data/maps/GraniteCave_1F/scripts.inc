@@ -10,6 +10,4 @@ GraniteCave_1F_EventScript_Hiker::
 	end
 
 GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
-	.string "I'd suggest avoiding hitting trees with a car."	
-	.string "FLASH? What is that? There's no such thing as a FLASH around here."
-	.string "I hope you have a good memory."
+	.string "I'd suggest avoiding hitting trees with a car."
