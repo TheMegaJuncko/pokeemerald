@@ -59,7 +59,7 @@ static bool8 TryGetAbilityInfluencedWildMonIndex(const struct WildPokemon *wildM
 #endif
 static bool8 IsAbilityAllowingEncounter(u8 level);
 
-EWRAM_DATA static u8 sWildEncountersDisabled = 0;
+EWRAM_DATA static u8 sWildEncountersDisabled = 1;
 EWRAM_DATA static u32 sFeebasRngValue = 0;
 
 #include "data/wild_encounters.h"

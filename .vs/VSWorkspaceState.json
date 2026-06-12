@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\sound\\direct_sound_samples"
+    "\\data",
+    "\\data\\maps"
   ],
-  "SelectedNode": "\\sound",
+  "SelectedNode": "\\data\\maps\\BattleFrontier_Lounge4",
   "PreviewInSolutionExplorer": false
 }
