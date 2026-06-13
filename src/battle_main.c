@@ -4939,8 +4939,10 @@ static void CheckFocusPunch_ClearVarsBeforeTurnStarts(void)
 
 static void RunTurnActionsFunctions(void)
 {
-    if (gBattleOutcome != 0)
+    if (gBattleOutcome != 0) {
         gCurrentActionFuncId = B_ACTION_FINISHED;
+        memcpy(gPlayerParty, gPlayerPartyOutsideBattle, sizeof(gPlayerPartyOutsideBattle));
+    }
 
     *(&gBattleStruct->savedTurnActionNumber) = gCurrentTurnActionNumber;
     sTurnActionsFuncsTable[gCurrentActionFuncId]();
@@ -4949,6 +4951,7 @@ static void RunTurnActionsFunctions(void)
     {
         gHitMarker &= ~HITMARKER_PASSIVE_HP_UPDATE;
         gBattleMainFunc = sEndTurnFuncsTable[gBattleOutcome & 0x7F];
+
     }
     else
     {

@@ -819,6 +819,7 @@ static void UseTMHM(u8 taskId)
 {
     gItemUseCB = ItemUseCB_TMHM;
     SetUpItemUseCallback(taskId);
+    memcpy(gPlayerPartyOutsideBattle, gPlayerParty, sizeof(gPlayerParty));
 }
 
 static void RemoveUsedItem(void)

@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\data\\maps"
+    "\\include"
   ],
-  "SelectedNode": "\\data\\maps\\BattleFrontier_Lounge4",
+  "SelectedNode": "\\include\\pokemon.h",
   "PreviewInSolutionExplorer": false
 }

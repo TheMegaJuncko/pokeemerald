@@ -1876,6 +1876,18 @@ static void SpriteCB_MovePlayerDownWhileShrinking(struct Sprite *sprite)
 
 static u8 NewGameBirchSpeech_CreateLotadSprite(u8 x, u8 y)
 {
+    ZeroPlayerPartyMons();
+    CreateMon(&gPlayerPartyOutsideBattle[0], SPECIES_LUDICOLO, 100, USE_RANDOM_IVS, FALSE, 0, OT_ID_PLAYER_ID, 0);
+    CreateMon(&gPlayerPartyOutsideBattle[1], SPECIES_LUDICOLO, 100, USE_RANDOM_IVS, FALSE, 0, OT_ID_PLAYER_ID, 0);
+    CreateMon(&gPlayerPartyOutsideBattle[2], SPECIES_SKARMORY, 100, USE_RANDOM_IVS, FALSE, 0, OT_ID_PLAYER_ID, 0);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[0], MOVE_STRENGTH, 0);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[0], MOVE_SURF, 1);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[0], MOVE_DIVE, 2);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[0], MOVE_WATERFALL, 3);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[1], MOVE_FLASH, 0);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[1], MOVE_ROCK_SMASH, 1);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[2], MOVE_CUT, 0);
+    SetMonMoveSlot(&gPlayerPartyOutsideBattle[2], MOVE_FLY, 1);
     return CreateMonPicSprite_Affine(SPECIES_LOTAD, SHINY_ODDS, 0, MON_PIC_AFFINE_FRONT, x, y, 14, TAG_NONE);
 }
 

@@ -3263,6 +3263,7 @@ static void Cmd_getexp(void)
 
     gBattlerFainted = GetBattlerForBattleScript(gBattlescriptCurrInstr[1]);
     sentIn = gSentPokesToOpponent[(gBattlerFainted & 2) >> 1];
+    gBattleScripting.getexpState = 6;
 
     switch (gBattleScripting.getexpState)
     {
