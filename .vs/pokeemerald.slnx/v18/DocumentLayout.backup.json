@@ -3,20 +3,136 @@
   "WorkspaceRootPath": "C:\\msys64\\home\\paulr\\pokeemerald\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\menu_helpers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\menu_helpers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_pyramid_bag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_pyramid_bag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\main_menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main_menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\field_effect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\field_effect.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\RustboroCity\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\maps\\RustboroCity\\scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\field_effect_scripts.s||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\field_effect_scripts.s||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\fldeff_rocksmash.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\fldeff_rocksmash.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\scripts\\field_move_scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\scripts\\field_move_scripts.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\fldeff_misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\fldeff_misc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\fldeff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\fldeff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\party_menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\party_menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\party_menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\party_menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pokemon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\scripts\\trainer_battle.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\scripts\\trainer_battle.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\item_use.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\item_use.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_util.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\battle_util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_script_commands.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_script_commands.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\battle_scripts_1.s||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\battle_scripts_1.s||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle_scripts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\battle_scripts.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\contest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\contest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_ai_script_commands.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_ai_script_commands.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_message.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\battle_message.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon_summary_screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pokemon_summary_screen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\pokemon_summary_screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\pokemon_summary_screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\tmhm_learnsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\pokemon\\tmhm_learnsets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\pokemon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\pokemon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\data\\scripts\\trainer_battle.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\scripts\\trainer_battle.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\msys64\\home\\paulr\\pokeemerald\\src\\wild_encounter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,24 +170,401 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\text.c",
+              "RelativeDocumentMoniker": "src\\text.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\text.c",
+              "RelativeToolTip": "src\\text.c",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAABsBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T10:58:56.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu_helpers.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\menu_helpers.c",
+              "RelativeDocumentMoniker": "src\\menu_helpers.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\menu_helpers.c",
+              "RelativeToolTip": "src\\menu_helpers.c",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAawIQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T10:56:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "battle_pyramid_bag.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_pyramid_bag.c",
+              "RelativeDocumentMoniker": "src\\battle_pyramid_bag.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_pyramid_bag.c",
+              "RelativeToolTip": "src\\battle_pyramid_bag.c",
+              "ViewState": "AgIAAM4FAAAAAAAAAAAawOMFAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T10:56:18.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menu.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\menu.c",
+              "RelativeDocumentMoniker": "src\\menu.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\menu.c",
+              "RelativeToolTip": "src\\menu.c",
+              "ViewState": "AgIAAKQHAAAAAAAAAAAuwMQHAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T10:55:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\menu.h",
+              "RelativeDocumentMoniker": "include\\menu.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\menu.h",
+              "RelativeToolTip": "include\\menu.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawDkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T10:55:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "text.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\text.h",
+              "RelativeDocumentMoniker": "include\\text.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\text.h",
+              "RelativeToolTip": "include\\text.h",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T10:54:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "scripts.inc",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\RustboroCity\\scripts.inc",
+              "RelativeDocumentMoniker": "data\\maps\\RustboroCity\\scripts.inc",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\RustboroCity\\scripts.inc",
+              "RelativeToolTip": "data\\maps\\RustboroCity\\scripts.inc",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAowJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T10:12:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "field_effect.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\field_effect.c",
+              "RelativeDocumentMoniker": "src\\field_effect.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\field_effect.c",
+              "RelativeToolTip": "src\\field_effect.c",
+              "ViewState": "AgIAAC4FAAAAAAAAAAAawEgFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T10:03:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "field_move_scripts.inc",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\scripts\\field_move_scripts.inc",
+              "RelativeDocumentMoniker": "data\\scripts\\field_move_scripts.inc",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\scripts\\field_move_scripts.inc",
+              "RelativeToolTip": "data\\scripts\\field_move_scripts.inc",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T10:02:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "field_effect_scripts.s",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\field_effect_scripts.s",
+              "RelativeDocumentMoniker": "data\\field_effect_scripts.s",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\field_effect_scripts.s",
+              "RelativeToolTip": "data\\field_effect_scripts.s",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T10:01:26.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fldeff_misc.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\fldeff_misc.c",
+              "RelativeDocumentMoniker": "src\\fldeff_misc.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\fldeff_misc.c",
+              "RelativeToolTip": "src\\fldeff_misc.c",
+              "ViewState": "AgIAAHgCAAAAAAAAAAAawI0CAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T10:00:40.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fldeff.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\fldeff.h",
+              "RelativeDocumentMoniker": "include\\fldeff.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\fldeff.h",
+              "RelativeToolTip": "include\\fldeff.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAnwDAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T10:00:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fldeff_rocksmash.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\fldeff_rocksmash.c",
+              "RelativeDocumentMoniker": "src\\fldeff_rocksmash.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\fldeff_rocksmash.c",
+              "RelativeToolTip": "src\\fldeff_rocksmash.c",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAawJUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:57:44.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "party_menu.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\party_menu.h",
+              "RelativeDocumentMoniker": "src\\data\\party_menu.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\party_menu.h",
+              "RelativeToolTip": "src\\data\\party_menu.h",
+              "ViewState": "AgIAAOACAAAAAAAAAAAnwP8CAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T09:57:27.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main_menu.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\main_menu.c",
+              "RelativeDocumentMoniker": "src\\main_menu.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\main_menu.c",
+              "RelativeToolTip": "src\\main_menu.c",
+              "ViewState": "AgIAAD8HAAAAAAAAAAAuwGEHAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:48:47.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "battle_util.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle_util.h",
+              "RelativeDocumentMoniker": "include\\battle_util.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle_util.h",
+              "RelativeToolTip": "include\\battle_util.h",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAnwGAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T09:46:17.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "battle_scripts_1.s",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\battle_scripts_1.s",
+              "RelativeDocumentMoniker": "data\\battle_scripts_1.s",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\battle_scripts_1.s",
+              "RelativeToolTip": "data\\battle_scripts_1.s",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-13T09:43:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "battle_util.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_util.c",
+              "RelativeDocumentMoniker": "src\\battle_util.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_util.c",
+              "RelativeToolTip": "src\\battle_util.c",
+              "ViewState": "AgIAAEIPAAAAAAAAAAAnwFYPAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:42:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "battle_scripts.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle_scripts.h",
+              "RelativeDocumentMoniker": "include\\battle_scripts.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle_scripts.h",
+              "RelativeToolTip": "include\\battle_scripts.h",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwLAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T09:41:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "contest.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\contest.h",
+              "RelativeDocumentMoniker": "include\\contest.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\contest.h",
+              "RelativeToolTip": "include\\contest.h",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwIkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T09:37:59.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "battle_ai_script_commands.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_ai_script_commands.c",
+              "RelativeDocumentMoniker": "src\\battle_ai_script_commands.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_ai_script_commands.c",
+              "RelativeToolTip": "src\\battle_ai_script_commands.c",
+              "ViewState": "AgIAAKABAAAAAAAAAAAIwI8BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:30:56.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "battle_message.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_message.c",
+              "RelativeDocumentMoniker": "src\\battle_message.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_message.c",
+              "RelativeToolTip": "src\\battle_message.c",
+              "ViewState": "AgIAAJMIAAAAAAAAAAAwwK0IAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:29:37.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "item_use.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\item_use.c",
+              "RelativeDocumentMoniker": "src\\item_use.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\item_use.c",
+              "RelativeToolTip": "src\\item_use.c",
+              "ViewState": "AgIAABwDAAAAAAAAAAAIwDcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:09:32.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "party_menu.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\party_menu.c",
+              "RelativeDocumentMoniker": "src\\party_menu.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\party_menu.c",
+              "RelativeToolTip": "src\\party_menu.c",
+              "ViewState": "AgIAAIkOAAAAAAAAAAAnwJEOAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:07:55.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "pokemon_summary_screen.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon_summary_screen.c",
+              "RelativeDocumentMoniker": "src\\pokemon_summary_screen.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon_summary_screen.c",
+              "RelativeToolTip": "src\\pokemon_summary_screen.c",
+              "ViewState": "AgIAAOQEAAAAAAAAAAAwwAEFAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T09:05:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "pokemon_summary_screen.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\pokemon_summary_screen.h",
+              "RelativeDocumentMoniker": "include\\pokemon_summary_screen.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\pokemon_summary_screen.h",
+              "RelativeToolTip": "include\\pokemon_summary_screen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T09:05:02.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "tmhm_learnsets.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\tmhm_learnsets.h",
+              "RelativeDocumentMoniker": "src\\data\\pokemon\\tmhm_learnsets.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\pokemon\\tmhm_learnsets.h",
+              "RelativeToolTip": "src\\data\\pokemon\\tmhm_learnsets.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T09:04:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "battle_script_commands.c",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_script_commands.c",
+              "RelativeDocumentMoniker": "src\\battle_script_commands.c",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_script_commands.c",
+              "RelativeToolTip": "src\\battle_script_commands.c",
+              "ViewState": "AgIAAJ4DAAAAAAAAAAAnwLEDAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-13T08:59:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "pokemon.h",
+              "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\pokemon.h",
+              "RelativeDocumentMoniker": "include\\pokemon.h",
+              "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\pokemon.h",
+              "RelativeToolTip": "include\\pokemon.h",
+              "ViewState": "AgIAAN8BAAAAAAAAAAAewPIBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-13T08:49:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "pokemon.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon.c",
               "RelativeDocumentMoniker": "src\\pokemon.c",
               "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\pokemon.c",
               "RelativeToolTip": "src\\pokemon.c",
-              "ViewState": "AgIAALsRAAAAAAAAAAAAAMMRAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH4IAAAAAAAAAAAIwJ0IAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-06-12T19:09:47.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 32,
               "Title": "trainer_battle.inc",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\scripts\\trainer_battle.inc",
               "RelativeDocumentMoniker": "data\\scripts\\trainer_battle.inc",
@@ -79,38 +572,37 @@
               "RelativeToolTip": "data\\scripts\\trainer_battle.inc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-12T19:03:58.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T19:03:58.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 31,
               "Title": "battle.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle.h",
               "RelativeDocumentMoniker": "include\\battle.h",
               "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\battle.h",
               "RelativeToolTip": "include\\battle.h",
-              "ViewState": "AgIAAG0CAAAAAAAAAAAqwIQCAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAG4CAAAAAAAAAAAewIQCAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-12T19:01:24.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 23,
               "Title": "battle_main.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_main.c",
               "RelativeDocumentMoniker": "src\\battle_main.c",
               "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\battle_main.c",
               "RelativeToolTip": "src\\battle_main.c",
-              "ViewState": "AgIAAOMAAAAAAAAAAAASwPcAAACQAAAAAAAAAA==",
+              "ViewState": "AgIAADkLAAAAAAAAAAASwAsLAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-06-12T19:01:19.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 33,
               "Title": "wild_encounter.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\wild_encounter.c",
               "RelativeDocumentMoniker": "src\\wild_encounter.c",
@@ -118,12 +610,11 @@
               "RelativeToolTip": "src\\wild_encounter.c",
               "ViewState": "AgIAADIAAAAAAAAAAAASwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-12T19:00:53.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T19:00:53.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 34,
               "Title": "wild_encounter.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\include\\wild_encounter.h",
               "RelativeDocumentMoniker": "include\\wild_encounter.h",
@@ -131,12 +622,11 @@
               "RelativeToolTip": "include\\wild_encounter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-12T19:00:28.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T19:00:28.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 35,
               "Title": "events.inc",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\Route117\\events.inc",
               "RelativeDocumentMoniker": "data\\maps\\Route117\\events.inc",
@@ -144,12 +634,11 @@
               "RelativeToolTip": "data\\maps\\Route117\\events.inc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-12T18:58:18.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T18:58:18.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 36,
               "Title": "scripts.inc",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\Route117\\scripts.inc",
               "RelativeDocumentMoniker": "data\\maps\\Route117\\scripts.inc",
@@ -157,12 +646,11 @@
               "RelativeToolTip": "data\\maps\\Route117\\scripts.inc",
               "ViewState": "AgIAADgAAAAAAAAAAAAlwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-12T18:57:32.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T18:57:32.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 37,
               "Title": "map.json",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\data\\maps\\Route117\\map.json",
               "RelativeDocumentMoniker": "data\\maps\\Route117\\map.json",
@@ -170,12 +658,11 @@
               "RelativeToolTip": "data\\maps\\Route117\\map.json",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAIEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-12T18:57:11.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T18:57:11.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 38,
               "Title": "trainer.h",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\data\\bard_music\\trainer.h",
               "RelativeDocumentMoniker": "src\\data\\bard_music\\trainer.h",
@@ -183,12 +670,11 @@
               "RelativeToolTip": "src\\data\\bard_music\\trainer.h",
               "ViewState": "AgIAAIQAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-12T18:54:44.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T18:54:44.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 39,
               "Title": "starter_choose.c",
               "DocumentMoniker": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\starter_choose.c",
               "RelativeDocumentMoniker": "src\\starter_choose.c",
@@ -196,8 +682,7 @@
               "RelativeToolTip": "src\\starter_choose.c",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAHIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-01T18:57:34.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T18:57:34.276Z"
             }
           ]
         }

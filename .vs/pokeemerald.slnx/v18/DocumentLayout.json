@@ -180,7 +180,7 @@
               "RelativeDocumentMoniker": "src\\text.c",
               "ToolTip": "C:\\msys64\\home\\paulr\\pokeemerald\\src\\text.c",
               "RelativeToolTip": "src\\text.c",
-              "ViewState": "AgIAAAoBAAAAAAAAAAAAABsBAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAABsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-06-13T10:58:56.377Z",
               "EditorCaption": ""
@@ -195,8 +195,7 @@
               "RelativeToolTip": "src\\menu_helpers.c",
               "ViewState": "AgIAAGwAAAAAAAAAAAAawIQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T10:56:47.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:56:47.987Z"
             },
             {
               "$type": "Document",
@@ -208,8 +207,7 @@
               "RelativeToolTip": "src\\battle_pyramid_bag.c",
               "ViewState": "AgIAAM4FAAAAAAAAAAAawOMFAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T10:56:18.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:56:18.404Z"
             },
             {
               "$type": "Document",
@@ -221,8 +219,7 @@
               "RelativeToolTip": "src\\menu.c",
               "ViewState": "AgIAAKQHAAAAAAAAAAAuwMQHAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T10:55:20.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:55:20.85Z"
             },
             {
               "$type": "Document",
@@ -234,8 +231,7 @@
               "RelativeToolTip": "include\\menu.h",
               "ViewState": "AgIAACQAAAAAAAAAAAAawDkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T10:55:04.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:55:04.194Z"
             },
             {
               "$type": "Document",
@@ -247,8 +243,7 @@
               "RelativeToolTip": "include\\text.h",
               "ViewState": "AgIAAEQAAAAAAAAAAAAuwFAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T10:54:37.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:54:37.207Z"
             },
             {
               "$type": "Document",
@@ -260,8 +255,7 @@
               "RelativeToolTip": "data\\maps\\RustboroCity\\scripts.inc",
               "ViewState": "AgIAAIgAAAAAAAAAAAAowJ4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-13T10:12:36.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:12:36.977Z"
             },
             {
               "$type": "Document",
@@ -273,8 +267,7 @@
               "RelativeToolTip": "src\\field_effect.c",
               "ViewState": "AgIAAC4FAAAAAAAAAAAawEgFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T10:03:47.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:03:47.797Z"
             },
             {
               "$type": "Document",
@@ -286,8 +279,7 @@
               "RelativeToolTip": "data\\scripts\\field_move_scripts.inc",
               "ViewState": "AgIAADIAAAAAAAAAAAAowEgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-13T10:02:06.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:02:06.961Z"
             },
             {
               "$type": "Document",
@@ -299,8 +291,7 @@
               "RelativeToolTip": "data\\field_effect_scripts.s",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-13T10:01:26.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:01:26.638Z"
             },
             {
               "$type": "Document",
@@ -312,8 +303,7 @@
               "RelativeToolTip": "src\\fldeff_misc.c",
               "ViewState": "AgIAAHgCAAAAAAAAAAAawI0CAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T10:00:40.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:00:40.951Z"
             },
             {
               "$type": "Document",
@@ -325,8 +315,7 @@
               "RelativeToolTip": "include\\fldeff.h",
               "ViewState": "AgIAABoAAAAAAAAAAAAnwDAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T10:00:19.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T10:00:19.666Z"
             },
             {
               "$type": "Document",
@@ -338,8 +327,7 @@
               "RelativeToolTip": "src\\fldeff_rocksmash.c",
               "ViewState": "AgIAAIIAAAAAAAAAAAAawJUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:57:44.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:57:44.245Z"
             },
             {
               "$type": "Document",
@@ -351,8 +339,7 @@
               "RelativeToolTip": "src\\data\\party_menu.h",
               "ViewState": "AgIAAOACAAAAAAAAAAAnwP8CAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T09:57:27.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:57:27.667Z"
             },
             {
               "$type": "Document",
@@ -364,8 +351,7 @@
               "RelativeToolTip": "src\\main_menu.c",
               "ViewState": "AgIAAD8HAAAAAAAAAAAuwGEHAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:48:47.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:48:47.114Z"
             },
             {
               "$type": "Document",
@@ -377,8 +363,7 @@
               "RelativeToolTip": "include\\battle_util.h",
               "ViewState": "AgIAAEoAAAAAAAAAAAAnwGAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T09:46:17.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:46:17.174Z"
             },
             {
               "$type": "Document",
@@ -390,8 +375,7 @@
               "RelativeToolTip": "data\\battle_scripts_1.s",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-13T09:43:40.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:43:40.556Z"
             },
             {
               "$type": "Document",
@@ -403,8 +387,7 @@
               "RelativeToolTip": "src\\battle_util.c",
               "ViewState": "AgIAAEIPAAAAAAAAAAAnwFYPAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:42:01.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:42:01.451Z"
             },
             {
               "$type": "Document",
@@ -416,8 +399,7 @@
               "RelativeToolTip": "include\\battle_scripts.h",
               "ViewState": "AgIAAJsAAAAAAAAAAAAIwLAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T09:41:49.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:41:49.273Z"
             },
             {
               "$type": "Document",
@@ -429,8 +411,7 @@
               "RelativeToolTip": "include\\contest.h",
               "ViewState": "AgIAAHEAAAAAAAAAAAAIwIkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T09:37:59.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:37:59.061Z"
             },
             {
               "$type": "Document",
@@ -442,8 +423,7 @@
               "RelativeToolTip": "src\\battle_ai_script_commands.c",
               "ViewState": "AgIAAKABAAAAAAAAAAAIwI8BAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:30:56.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:30:56.117Z"
             },
             {
               "$type": "Document",
@@ -455,8 +435,7 @@
               "RelativeToolTip": "src\\battle_message.c",
               "ViewState": "AgIAAJMIAAAAAAAAAAAwwK0IAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:29:37.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:29:37.504Z"
             },
             {
               "$type": "Document",
@@ -468,8 +447,7 @@
               "RelativeToolTip": "src\\item_use.c",
               "ViewState": "AgIAABwDAAAAAAAAAAAIwDcDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:09:32.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:09:32.124Z"
             },
             {
               "$type": "Document",
@@ -481,8 +459,7 @@
               "RelativeToolTip": "src\\party_menu.c",
               "ViewState": "AgIAAIkOAAAAAAAAAAAnwJEOAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:07:55.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:07:55.666Z"
             },
             {
               "$type": "Document",
@@ -494,8 +471,7 @@
               "RelativeToolTip": "src\\pokemon_summary_screen.c",
               "ViewState": "AgIAAOQEAAAAAAAAAAAwwAEFAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T09:05:34.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:05:34.643Z"
             },
             {
               "$type": "Document",
@@ -507,8 +483,7 @@
               "RelativeToolTip": "include\\pokemon_summary_screen.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T09:05:02.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:05:02.109Z"
             },
             {
               "$type": "Document",
@@ -520,8 +495,7 @@
               "RelativeToolTip": "src\\data\\pokemon\\tmhm_learnsets.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T09:04:41.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T09:04:41.839Z"
             },
             {
               "$type": "Document",
@@ -533,8 +507,7 @@
               "RelativeToolTip": "src\\battle_script_commands.c",
               "ViewState": "AgIAAJ4DAAAAAAAAAAAnwLEDAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-13T08:59:26.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T08:59:26.699Z"
             },
             {
               "$type": "Document",
@@ -546,8 +519,7 @@
               "RelativeToolTip": "include\\pokemon.h",
               "ViewState": "AgIAAN8BAAAAAAAAAAAewPIBAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-13T08:49:38.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T08:49:38.444Z"
             },
             {
               "$type": "Document",
@@ -559,8 +531,7 @@
               "RelativeToolTip": "src\\pokemon.c",
               "ViewState": "AgIAAH4IAAAAAAAAAAAIwJ0IAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-12T19:09:47.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T19:09:47.683Z"
             },
             {
               "$type": "Document",
@@ -584,8 +555,7 @@
               "RelativeToolTip": "include\\battle.h",
               "ViewState": "AgIAAG4CAAAAAAAAAAAewIQCAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-12T19:01:24.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T19:01:24.239Z"
             },
             {
               "$type": "Document",
@@ -597,8 +567,7 @@
               "RelativeToolTip": "src\\battle_main.c",
               "ViewState": "AgIAADkLAAAAAAAAAAASwAsLAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-06-12T19:01:19.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T19:01:19.771Z"
             },
             {
               "$type": "Document",
